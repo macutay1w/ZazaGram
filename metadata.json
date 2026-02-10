@@ -1,0 +1,8 @@
+{
+  "name": "ZazaChat - Modern Messaging",
+  "description": "A dark-themed, purple-accented messaging platform with room management, media sharing, and movie watching capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
